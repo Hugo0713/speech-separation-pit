@@ -125,3 +125,7 @@ python train1.py
 ## 参考文献 (References)
 
 - Yu, D., Kolbæk, M., Tan, Z. H., & Jensen, J. (2017). "Permutation invariant training of deep models for speaker-independent multi-talker speech separation." *ICASSP 2017*.
+
+## 许可证 (License)
+
+本项目采用 MIT 许可证。有关详细信息，请参阅 [LICENSE](LICENSE) 文件。
